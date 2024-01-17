@@ -39,3 +39,6 @@ gin-vue-admin-exp.exe -u https://www.baidu.com
 gin-vue-admin-exp.exe -u https://www.baidu.com -x xxxx
 ```
 ![image.png](https://cdn.nlark.com/yuque/0/2024/png/29227563/1705476694652-20534861-f57f-4e0f-93e0-129abfc96a97.png#averageHue=%23161616&clientId=u7ff73711-4205-4&from=paste&height=572&id=u91987a6e&originHeight=715&originWidth=1360&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=72828&status=done&style=none&taskId=u110d563d-0906-4235-8a2b-a60deec5025&title=&width=1088)
+
+## 计划
+1. 添加第二种撞库模式，引入字典dict，固定密码撞库(实现不难，但是太懒了)
