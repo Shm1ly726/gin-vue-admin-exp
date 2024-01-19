@@ -7,7 +7,7 @@
 **声明：此工具仅作学习交流用，不要做任何违法行为，如果违法&恶意操作，与本人无关！！！**
 
 ## 主要功能
-相关漏洞原理：[http://47.109.35.4/posts/src-gin-vue-admin%E6%94%BB%E5%87%BB%E9%9D%A2/](http://47.109.35.4/posts/src-gin-vue-admin%E6%94%BB%E5%87%BB%E9%9D%A2/)
+相关漏洞原理：[http://shm1ly726.com/posts/src-gin-vue-admin%E6%94%BB%E5%87%BB%E9%9D%A2/](http://47.109.35.4/posts/src-gin-vue-admin%E6%94%BB%E5%87%BB%E9%9D%A2/)
 
 1. 前端绕过
    1. 绕过思路1：只判断`captchaId`与`captcha`是否为空，不校验验证码是否正确
